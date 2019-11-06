@@ -10,6 +10,7 @@ Lizmap consente di dare accesso ai repository o alle singole mapppe a specifici 
 Questa guida è pensata per gli utenti che acquistino il piano geoDB che include di default 
 
 * 3 gruppi utenti
+* 3 repository utente 
 * un utente amministratore 
 
 
@@ -17,6 +18,11 @@ Per entrare nello specifico cominciamo ad individuare due diverse figure:
 
 * *amministratore di sistema*: è rappresentato da chi gestisce il server GisHosting, ossia da personale di Gter 
 * *utente amministratore*: è l'utente creato al momento della creazione del proprio spazio su GisHosting, ha accesso completo ai repository lizmap così come alla cartella di Nextcloud contente i progetti QGIS da pubblicare 
+
+
+Di default ogni repository creato corrisponde a un gruppo come mostrato nella seguente figura
+
+.. image:: img/default_repo.png
 
 
 
@@ -29,6 +35,8 @@ Il solo **amministratore di sistema**, sulla base delle specifiche richieste del
 * Consenti l'esportazione dei layer
 * Mostrare sempre i dati completi, anche se filtrati da login
 
+
+.. image:: img/3repo.PNG
 
 
 L' **utente amministratore** attraverso il plugin lizmap ha inoltre la possibilità di filtrare singoli progetti per ogni gruppo di utente.
