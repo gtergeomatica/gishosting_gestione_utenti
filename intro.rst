@@ -1,6 +1,45 @@
 Introduzione
 ==================
 
+
+Introduzione
+------------------------------------------
+GisHosting è basato sul webclient Lizmap. 
+Lizmap consente di dare accesso ai repository o alle singole mapppe a specifici gruppi. 
+
+Questa guida è pensata per gli utenti che acquistino il piano geoDB che include di default 
+
+* 3 gruppi utenti
+* un utente amministratore 
+
+
+Per entrare nello specifico cominciamo ad individuare due diverse figure:
+
+* *amministratore di sistema*: è rappresentato da chi gestisce il server GisHosting, ossia da personale di Gter 
+* *utente amministratore*: è l'utente creato al momento della creazione del proprio spazio su GisHosting, ha accesso completo ai repository lizmap così come alla cartella di Nextcloud contente i progetti QGIS da pubblicare 
+
+
+
+
+Il solo **amministratore di sistema**, sulla base delle specifiche richieste dell'**utente amministratore**, può specificare i permessi per ogni repository:
+
+* Vedere progetti nel repository
+* Visualizza il link del WMS dei progetti
+* Usa lo strumento edizione
+* Consenti l'esportazione dei layer
+* Mostrare sempre i dati completi, anche se filtrati da login
+
+
+
+L' **utente amministratore** attraverso il plugin lizmap ha inoltre la possibilità di filtrare singoli progetti per ogni gruppo di utente.
+
+.. image:: img/lizmap_gruppi.PNG
+
+
+
+Gestione utenti 
+===========================================
+
 Accesso alla dashboard utente
 ------------------------------------------
 Dalla pagina principale di GisHosting https://gishosting.gter.it/home/ con il tasto in alto a destra si accede alla dashboard del proprio utente (solo per il piano geoDB)
@@ -24,7 +63,7 @@ Dashboard utente
 
 Si possono così visualizzare le dimensioni del proprio geoDB PostgreSQL/PostGIS:
 
-.. image:: img/dim_DB.PNG
+.. image:: img/dim_db.PNG
 
 
 
@@ -34,6 +73,16 @@ E l'elenco degli utenti associati al proprio **utente amministratore**, oltre ch
 
 
 
+
+
+Per ogni utente creato si può poi procedere a specificare i gruppi di appartenenza
+
+
+
+
+
+Per la personalizzazione
+https://vimeo.com/83966790
 
 
 
