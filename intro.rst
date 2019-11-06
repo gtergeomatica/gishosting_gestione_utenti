@@ -22,7 +22,7 @@ Per entrare nello specifico cominciamo ad individuare due diverse figure:
 
 Di default ogni repository creato corrisponde a un gruppo come mostrato nella seguente figura
 
-.. image:: img/default_repo.png
+.. image:: img/repo_default.png
 
 
 
