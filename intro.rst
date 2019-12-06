@@ -102,7 +102,7 @@ Per aggiungere nuovi utenti bisogna completare un form in cui è necessario spec
 
 Per ogni utente creato si possono modificare i gruppi di appartenenza.
 
-.. image:: img/edit_utente.PNG
+.. image:: img/edit_utente.png
 
 
 
