@@ -1,5 +1,5 @@
-Introduzione
-==================
+Manuale Amministratore
+======================
 
 
 Utenti e repository
@@ -57,14 +57,14 @@ L' **utente amministratore** attraverso il plugin lizmap ha inoltre la possibili
 
 
 Gestione utenti (e gruppi)
-===========================================
+---------------------------
 
 Con queste funzionalità si può creare un numero illimitato di utenti (purchè il nome non sia già stato assegnato) da associare a specifici gruppi. **Non si possono invece creare nuovi gruppi.
 Questa funzionalità come detto nelle precedenti sezioni è consentita al solo amministratore di sistema.** 
 
 
 Accesso alla dashboard utente
-------------------------------------------
+**********************************
 Dalla pagina principale di GisHosting https://gishosting.gter.it/home/ con il tasto in alto a destra si accede alla dashboard del proprio utente (solo per il piano geoDB)
 
 .. image:: img/user_dashboard0.PNG
@@ -82,7 +82,7 @@ Da questa schermata cliccando sul tasto "Check your data" è possibile inserire 
 
 
 Dashboard utente
-------------------------------------------
+******************
 
 Si possono così visualizzare le dimensioni del proprio geoDB PostgreSQL/PostGIS:
 
