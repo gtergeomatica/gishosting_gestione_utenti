@@ -11,6 +11,6 @@ Contenuti:
 
   admin
   user
-  lizmap-documentation/source/publish/quick_start/index.rst
+  lizmap-documentation/source/publish/index.rst
 
 
