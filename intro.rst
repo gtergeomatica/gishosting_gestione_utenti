@@ -1,9 +1,10 @@
+************************
 Manuale Amministratore
-======================
+***********************
 
 
 Utenti e repository
-==========================
+-----------------------
 GisHosting è basato sul webclient Lizmap. 
 Lizmap consente di dare accesso ai repository o alle singole mapppe a specifici gruppi. 
 
