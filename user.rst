@@ -6,18 +6,24 @@ L'interfaccia grafica
 
 .. image:: img/interfaccia.png
 
-Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
+Linterfaccia, intuitiva e user-friendly, è composta da:
 
-* **Area di Mappa** qui vengono visualizzati i dati
-* **Albero dei Layer** qui sono elencati tutti i layer disponibili sul Geoportale. I dati derivanti, dal progetto Concert-Eaux e da progetti precedenti, sono suddivisi in quattro gruppi principali, uno per progetto, nominati appunto Concert-Eaux, EurEauPa, RiskNat e Eurobassin. Questi quattro gruppi sono al loro volta suddivisi in sottogruppi. I singoli layers e sottogruppi possono essere accesi e spenti cliccando sul checkbox corrispondente. Cliccando invece sulla freccia accanto alla checkbox è possibile espandere il gruppo e visualizzarne quindi il contenuto oppure, nel caso dei layer, visualizzarne la legenda. Inoltre cliccando sul nome del gruppo o del layer è pissibile accedere a un popup contenete eventuali informazioni, modificarne l'opacità, zoommare all'estensione del layer e se possibile scaricare il dato.
+* **Area di Mappa** qui vengono visualizzati i dati.
+.. seealso:: Per maggiori dettagli sulla configurazione dell'area di mappa si rimanda al manuale di Lizmap https://docs.lizmap.com/current/it/publish/lizmap_configuration.html#configure-the-map
+
+* **Albero dei Layer** qui sono elencati tutti i layer pubblicati e quindi disponibili sul WebGIS. I dati mantnegono la stessa organizzazione (suddivisione in gruppi e sotto-gruppi) del progetto QGIS. I singoli layers, gruppi e sottogruppi possono essere "accesi" e "spenti" cliccando sulla checkbox corrispondente. Cliccando invece sulla freccia accanto alla checkbox è possibile espandere il gruppo e visualizzarne quindi il contenuto oppure, nel caso dei layer, visualizzarne la legenda. Inoltre cliccando sul nome del gruppo o del layer è pissibile accedere a un popup contenete eventuali informazioni, modificarne l'opacità, zoommare all'estensione del layer e se possibile (ovvero definito lato QGIS) scaricare il dato.
+
+.. seealso:: Per maggiori dettagli sulla configurazione di gruppi e layer si rimanda al manuale di Lizmap https://docs.lizmap.com/current/en/publish/lizmap_configuration.html#configure-layers-and-groups
 
 .. image:: img/layer.gif
 
-* **Menù dei layer di base** qui sono elencati tutti gli sfondi cartografici disponibili per il geoportale. Di defult viene caricato lo sfondo di OpenStreetMap.
+* **Menù dei layer di base** qui sono elencati tutti gli sfondi cartografici definiti lato QGIS (Plugin Lizmap) per il webGIS.
+
+.. seealso:: Per maggiori dettagli sulla configurazione dei layer di base si rimanda al manuale di Lizmap https://docs.lizmap.com/current/en/publish/lizmap_configuration.html#configure-the-base-layers
 
 .. image:: img/base_layer.gif
 
-* **Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili (metadati, editing per i soli utenti accreditati, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, visualizzatore 3D). I singoli strumenti saranno meglio descritti nella sezione **Strumenti e funzioni**.
+* **Toolbar** da qui è possibile accedere a tutti gli strumenti abilitati e quindi disponibili sul webGIS (metadati, editing, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, ecc.). I singoli strumenti saranno meglio descritti nella sezione **Strumenti e funzioni**.
 
 .. image:: img/tool.gif
 
