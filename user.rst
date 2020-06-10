@@ -68,14 +68,14 @@ Lo strumento **Selezione** permette di selezionare le geometrie di un layer a su
 
 E' possibile creare una nuova selezione, aggiungere gli elementi selezionati alla selezione esistente oppure rimuovere gli elementi selezionati dalla selezione esistente. Inoltre è possibile deselezionare tutti gli elementi slezionati oppure filtrare gli elementi selezionati. Con il filtro resteranno visibili nell'area di mappa solo gli elementi precedentemente selezionati. ovviamente è possibile rimuovere il filtro per visualizzare nuovamente tutte le geometrie.
 
-.. image:: img/selezione.gif
+.. image:: manuale_geoportale_concerteaux/img/selezione.gif
 
 
 Localizzazione
 +++++++++++++++
 Lo strumento **Localizzazione** permette di cercare e selezionare un comune facente parte del bacino del Roia. Una volta selezionato, l'area di mappa viene zoomata e centrata all'estensione del comune. E' sufficiente digitare i primi caratteri del nome del comune per trovarlo all'interno della lista. Altrimenti è possibile aprire il menù a tendina e scorrerlo per trovare il comune di interesse.
 
-.. image:: img/localizzazione.gif
+.. image:: manuale_geoportale_concerteaux/img/localizzazione.gif
 
 Stampa
 +++++++
