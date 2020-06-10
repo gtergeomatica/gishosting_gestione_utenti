@@ -4,7 +4,7 @@ Manuale utente
 L'interfaccia grafica
 --------------------------------------------
 
-.. image:: ../../../manuale_geoportale_concerteaux/blob/master/img/interfaccia.png
+.. image:: img/interfaccia.png
 
 Linterfaccia, intuitiva e user-friendly, è composta da:
 
