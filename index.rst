@@ -12,6 +12,6 @@ Contenuti:
   admin
   user
   user_new
-  lizmap-documentation/source/publish/index.rst
+..  lizmap-documentation/source/publish/index.rst
 
 
