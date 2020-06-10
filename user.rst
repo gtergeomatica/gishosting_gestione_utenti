@@ -15,17 +15,17 @@ Linterfaccia, intuitiva e user-friendly, è composta da:
 
 .. seealso:: Per maggiori dettagli sulla configurazione di gruppi e layer si rimanda al manuale di Lizmap https://docs.lizmap.com/current/en/publish/lizmap_configuration.html#configure-layers-and-groups
 
-.. image:: img/layer.gif
+.. image:: manuale_geoportale_concerteaux/img/layer.gif
 
 * **Menù dei layer di base** qui sono elencati tutti gli sfondi cartografici definiti lato QGIS (Plugin Lizmap) per il webGIS.
 
 .. seealso:: Per maggiori dettagli sulla configurazione dei layer di base si rimanda al manuale di Lizmap https://docs.lizmap.com/current/en/publish/lizmap_configuration.html#configure-the-base-layers
 
-.. image:: img/base_layer.gif
+.. image:: manuale_geoportale_concerteaux/img/base_layer.gif
 
 * **Toolbar** da qui è possibile accedere a tutti gli strumenti abilitati e quindi disponibili sul webGIS (metadati, editing, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, ecc.). I singoli strumenti saranno meglio descritti nella sezione **Strumenti e funzioni**.
 
-.. image:: img/tool.gif
+.. image:: manuale_geoportale_concerteaux/img/tool.gif
 
 * **Pan e Zoom** strumenti per la navigazione dell'area di mappa (sposta, zoom con rettangolo, zoom alla massima estenzione, zoom-in e zoom-out, zoom precedente e successivo).
 * **Scala e Coordinate del mouse** qui vengono mostrate la scala di visualizzazione e le coordinate al puntatore del mouse espresse.
