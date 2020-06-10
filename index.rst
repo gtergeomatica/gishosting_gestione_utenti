@@ -10,7 +10,6 @@ Contenuti:
 .. toctree::
 
   admin
-  user
   user_new
 
 
