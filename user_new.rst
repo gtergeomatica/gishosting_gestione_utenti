@@ -3,4 +3,4 @@ Manuale utente
 
 .. toctree::
 
-  manuale_geoportale_concerteaux/index.rst
+  manuale_geoportale_concerteaux/geoportale.rst
