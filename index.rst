@@ -11,5 +11,6 @@ Contenuti:
 
   admin
   user
+  user_new
 
 
