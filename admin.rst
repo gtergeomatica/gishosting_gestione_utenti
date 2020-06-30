@@ -50,7 +50,9 @@ Il solo **amministratore di sistema**, sulla base delle specifiche richieste del
 .. image:: img/3repo.PNG
 
 
-L' **utente amministratore** attraverso il plugin lizmap ha inoltre la possibilità di filtrare singoli progetti per ogni gruppo di utente agendo direttamente sul progetto QGIS.
+L' **utente amministratore** attraverso il plugin lizmap ha inoltre la possibilità di filtrare singoli progetti per ogni gruppo di utente agendo direttamente sul progetto QGIS. Ciò permette di limitare l'accesso e quindi la visualizzazione di specifici progetti ai diversi gruppi. Ad esempio, se si ha una repository che contiene 5 progetti ma il gruppo *user1_group* può visualizzare solo uno di questi 5 progetti, l'**utente amministratore** dovrà aprire i singoli progetti contenuti nel repository e, tramite il plugin Lizmap, specificare i gruppi che possono visualizzare i singoli progetti. Nel caso dell'esempio quindi, il gruppo *user1_group* dovrà essere indicato solo nel progetto che può effettivamente visualizzare. 
+
+I nomi dei gruppi che hanno accesso al progetto devono essere inseriti, separati da virgola, nell'area di testo **Limita l'accesso ai gruppi seguenti** nella scheda **Opzioni Mappa** del plugin Lizmap
 
 .. image:: img/lizmap_gruppi.PNG
 
@@ -98,7 +100,7 @@ Una volta fatto l'accesso alla dashbord utente è possibile:
 
 * visualizzare l'elenco delle attività svolte dai singoli utenti sui vari repository. La tabella riporta il tipo di attività (login, viemap, print, ecc.), il nome utente che ha svolto l'attività, il contenuto dell'attività (nel caso ad esempio del print è possibile visualizzare la stampa che è stata fatta), la repository e il progetto a cui l'utente ha fatto accesso. La tabella può essere ordinata e/o filtrata in modo da visualizzare ad esempio tutte le attività fatte da uno specifico utente o ad esempio per vedere tutti gli utenti che hanno compiuto una specifica attività.
 
-.. image:: img/log_attivita.png
+.. image:: img/log_attivita.gif
 
 
 Aggiungere nuovi utenti
