@@ -84,16 +84,24 @@ Da questa schermata cliccando sul tasto "Check your data" è possibile inserire 
 Dashboard utente
 ******************
 
-Si possono così visualizzare le dimensioni del proprio geoDB PostgreSQL/PostGIS:
+Una volta fatto l'accesso alla dashbord utente è possibile:
+
+* visualizzare le dimensioni del proprio geoDB PostgreSQL/PostGIS:
 
 .. image:: img/dim_db.PNG
 
 
 
-E l'elenco degli utenti associati al proprio **utente amministratore**, oltre che, se necessario aggiungere nuovi utenti.
+* visualizzare l'elenco degli utenti associati al proprio **utente amministratore** oltre che, se necessario aggiungere nuovi utenti.
 
 .. image:: img/dati_utente.PNG
 
+* visualizzare l'elenco delle attività svolte dai singoli utenti sui vari repository. La tabella riporta il tipo di attività (login, viemap, print, ecc.), il nome utente che ha svolto l'attività, il contenuto dell'attività (nel caso ad esempio del print è possibile visualizzare la stampa che è stata fatta), la repository e il progetto a cui l'utente ha fatto accesso. La tabella può essere ordinata e/o filtrata in modo da visualizzare ad esempio tutte le attività fatte da uno specifico utente o ad esempio per vedere tutti gli utenti che hanno compiuto una specifica attività.
+
+
+
+Aggiungere nuovi utenti
+++++++++++++++++++++++++++
 
 Per aggiungere nuovi utenti bisogna completare un form in cui è necessario specificare almeno un gruppo di appartenenza:
 
