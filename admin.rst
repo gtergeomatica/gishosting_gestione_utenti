@@ -98,6 +98,7 @@ Una volta fatto l'accesso alla dashbord utente è possibile:
 
 * visualizzare l'elenco delle attività svolte dai singoli utenti sui vari repository. La tabella riporta il tipo di attività (login, viemap, print, ecc.), il nome utente che ha svolto l'attività, il contenuto dell'attività (nel caso ad esempio del print è possibile visualizzare la stampa che è stata fatta), la repository e il progetto a cui l'utente ha fatto accesso. La tabella può essere ordinata e/o filtrata in modo da visualizzare ad esempio tutte le attività fatte da uno specifico utente o ad esempio per vedere tutti gli utenti che hanno compiuto una specifica attività.
 
+.. image:: img/log_attivita.png
 
 
 Aggiungere nuovi utenti
