@@ -52,7 +52,7 @@ Per eliminare invece un elemento esistente, il procedimento è simile a quello d
 
 In ogni caso per rendere effettiva qualsiasi modifica ai dati (creazione di nuovi elementi, modifica o eliminazione degli esistenti) è necessario premere il pulsante *Salva*. ATTENZIONE: una volta salvate le modifiche non sarà più possibile tornare indietro.
 
-.. image:: img/modifica.gif
+.. image:: manuale_geoportale_concerteaux/img/modifica.gif
 
 Per maggiori dettagli si rimanda al manuale di Lizmap Web Client https://docs.lizmap.com/current/it/user/user_guide.html#editing-spatial-data
 
@@ -81,7 +81,7 @@ Stampa
 +++++++
 Lo strumento **Stampa** permette di salvare l'area di mappa in formato immagine (pdf, jpg, ecc.). Al momento sono disponibili 4 layout di stampa (A4 orizzontale e verticale, A3 orizzontale e verticale) da scegliere nel relativo menù a tendina dello strumento. E' possibile definire la scala di stampa da scegliere dal relativo menù a tendina e la risoluzione dell'immagine. Sono disponibili diversi formati file (PDF, JPG, PNG e SVG). Una volta attivato lo strumento, comparirà nell'area di mappa un riquadro rosso la cui forma e dimensione cambierà a seconda del layout e dalla scala scelta per la stampa. E' sufficiente spostare il riquadro per inquadrare la porzione di mappa che si vuole stampare. nella stampa compariranno tutti i layer che sono stati accesi nell'albero dei layer e lo sfondo cartografico scelto.
 
-.. image:: img/stampa.gif
+.. image:: manuale_geoportale_concerteaux/img/stampa.gif
 
 Misura
 ++++++++
@@ -93,7 +93,7 @@ Lo strumento **Misura** permette di misurare:
 
 E' sufficiente selezionare il tipo di misura che si vuole fare dal menù a tendina e iniziare a disegnare sull'area di mappa la lunghezza/l'area/ il perimetro che si vuole misurare. Un click del tastro destro del mouse aggiunge un unovo nodo al tracciato della misura, doppio click con il tasto destro del mouse per chiudere il tracciato e quindi interrompere la misura. E' possibile passare da un tipo di misura all'altro semplicemente selezionando quello desiderato dal menù a tendina senza dover chiudere e riaprire lo strumento.
 
-.. image:: img/misura.gif
+.. image:: manuale_geoportale_concerteaux/img/misura.gif
 
 Dati
 ++++++
@@ -116,7 +116,7 @@ Gli strumenti accanto al form *Cerca* permettono di:
 * filtrare i dati (con questo strumento verranno temporaneamente visualizzate solo le geometrie e le corrispondenti righe in tabella che rispondono al criterio di ricerca. Per tornare alla visualizzazione totale è sufficiente cliccare nuovamente sul pulsante del filto),
 * visualizzare i valori della tabella.
 
-.. image:: img/dati.gif
+.. image:: manuale_geoportale_concerteaux/img/dati.gif
 
 Per maggiori dettagli si rimanda al manuale di Lizmap Web Client https://docs.lizmap.com/current/it/user/user_guide.html#attribute-layers
 
