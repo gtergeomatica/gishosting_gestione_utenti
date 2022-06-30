@@ -129,7 +129,9 @@ Si ricorda infine che dal progetto QGIS, tramite il plugin lizmap, è possibile 
 
 In tal caso si rimanda a:
 
-* guida di lizmap: https://docs.lizmap.com/current/it/publish/advanced_lizmap_config.html#filtered-layers-filtering-data-in-function-of-users
+* guida di lizmap: 
+  * https://docs.lizmap.com/3.5/it/publish/lizmap_plugin/layers.html
+  * https://docs.lizmap.com/3.5/it/publish/lizmap_plugin/filtered_layers_login.html
 * video-tutorial: https://vimeo.com/83966790
 
 
