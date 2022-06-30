@@ -127,7 +127,7 @@ Note finali
 
 Si ricorda infine che dal progetto QGIS, tramite il plugin lizmap, è possibile filtrare la visualizzazione del progetto e dei layer in funzione del gruppo utente 
 ..
-e i dati di un layer sulla base del nome utente.
+ e i dati di un layer sulla base del nome utente.
 
 In tal caso si rimanda a:
 
