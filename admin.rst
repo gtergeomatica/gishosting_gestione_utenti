@@ -125,7 +125,7 @@ Si ricorda che il gruppo *nomeutente_group* è il gruppo amministratore per cui 
 Note finali
 **************************************************************
 
-Si ricorda infine che dal progetto QGIS, tramite il plugin lizmap, è possibile filtrare la visualizzazione di un layer sulla base del nome utente.
+Si ricorda infine che dal progetto QGIS, tramite il plugin lizmap, è possibile filtrare la visualizzazione del progetto e dei layer in funzione del gruppo utente ei dati di un layer sulla base del nome utente.
 
 In tal caso si rimanda a:
 
