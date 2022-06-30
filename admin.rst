@@ -136,7 +136,7 @@ guida di lizmap: https://docs.lizmap.com/3.5/it/publish/lizmap_plugin/layers.htm
 ..
   * https://docs.lizmap.com/3.5/it/publish/lizmap_plugin/filtered_layers_login.html
 ..  
-* video-tutorial: https://vimeo.com/83966790
+ * video-tutorial: https://vimeo.com/83966790
 
 
 
